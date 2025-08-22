@@ -5,3 +5,14 @@
 .container {
   max-width: 1140px;
 }
+
+.color {
+  color: #f4f4f4;
+  color: #777777;
+  color: #1c1c1c;
+  color: #777777;
+}
+/* 
+to FF8938
+from FF0000
+bg-gradient-to-b from-[#FF0000] to-[#FF8938] opacity-10 */
